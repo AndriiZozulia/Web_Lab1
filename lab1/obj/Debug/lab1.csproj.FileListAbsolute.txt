@@ -1,0 +1,6 @@
+E:\Projects\WebC#\lab1\lab1\lab1\bin\Debug\lab1.exe
+E:\Projects\WebC#\lab1\lab1\lab1\bin\Debug\lab1.pdb
+E:\Projects\WebC#\lab1\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+E:\Projects\WebC#\lab1\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+E:\Projects\WebC#\lab1\lab1\lab1\obj\Debug\lab1.exe
+E:\Projects\WebC#\lab1\lab1\lab1\obj\Debug\lab1.pdb
